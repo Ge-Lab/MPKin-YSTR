@@ -11,6 +11,9 @@ Version 0.9 is primarily for software testing, but all functions are ready to us
 
 User manual and instruction video will be shared soon.
 
+## How to run it
+Download the jar file and double-click the jar file to run the program.
+
 ## Input data
 1.	Y-STR haplotype population data
 2.	Y-STR mutation rates
