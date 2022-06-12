@@ -1,5 +1,5 @@
 # MPKin-YSTR
-This software program is for analyzing Y-STR haplotypes primarily for haplotype comparison and kinship analysis. This software was developed with the support from National Institute of Justice (NIJ) 2020-DQ-BX-0018.
+This software program is for analyzing Y-STR haplotypes, primarily  haplotype comparison and kinship analysis. This software was developed with the support from National Institute of Justice (NIJ) 2020-DQ-BX-0018.
 There are three major functions implemented in this tool:
 1.	Y-STR haplotype comparisons (i.e., 1:1, 1:N, and N:N comparisons)
 2.	Pedigree likelihood ratio for kinship analysis with Y-STR profiles, 
