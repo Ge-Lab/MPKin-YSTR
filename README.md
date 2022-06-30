@@ -9,7 +9,7 @@ This software was written by JAVA, so it may be run on any platform that has the
 
 Version 0.9 is primarily for software testing, but all functions are ready to use.
 
-User manual and instruction video will be shared soon.
+Tutorial videos can be found at https://www.youtube.com/playlist?list=PLZ_kVTJ53UPB2LFr7o0HYA-3WXfL_F3Jr 
 
 ## How to run it
 Download the jar file and double-click the jar file to run the program.
