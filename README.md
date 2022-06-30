@@ -10,7 +10,7 @@ This software was written by Java, so it may be run on any platform that has the
 Tutorial videos can be found at https://www.youtube.com/playlist?list=PLZ_kVTJ53UPB2LFr7o0HYA-3WXfL_F3Jr 
 
 ## How to run it
-Download the jar file and double-click the jar file to run the program.
+Download MPKin-YSTR.jar and double-click the file to run the program.
 
 More details may be found in the user manual and the tutorial videos.
 
