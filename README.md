@@ -5,18 +5,14 @@ There are three major functions implemented in this tool:
 2.	Pedigree likelihood ratio for kinship analysis with Y-STR profiles, 
 3.	Draw mismatch distributions to decide a threshold for determining if two profiles are from the same lineage or not
 
-This software was written by JAVA, so it may be run on any platform that has the latest version of JAVA installed.
+This software was written by Java, so it may be run on any platform that has the latest version of Java installed.
 
-Version 0.9 is primarily for software testing, but all functions are ready to use.
-
-User manual and instruction video will be shared soon.
+Tutorial videos can be found at https://www.youtube.com/playlist?list=PLZ_kVTJ53UPB2LFr7o0HYA-3WXfL_F3Jr 
 
 ## How to run it
-Download the jar file and double-click the jar file to run the program.
+Download MPKin-YSTR.jar and double-click the file to run the program.
 
-## Input data
-1.	Y-STR haplotype population data
-2.	Y-STR mutation rates
+More details may be found in the user manual and the tutorial videos.
 
 ## Contact: 
 For any questions or bugs, please contact  gejianye@gmail.com or Jianye.ge@unthsc.edu 
