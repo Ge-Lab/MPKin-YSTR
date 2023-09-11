@@ -14,7 +14,7 @@ Download MPKin-YSTR.jar and double-click the file to run the program.
 
 More details may be found in the user manual and the tutorial videos.
 
-### Bug fix in version 1.1
+### Bug fix in version 1.1.1
 A bug in the profile comparison has been fixed.
 
 ## Contact: 
